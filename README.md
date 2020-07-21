@@ -6,10 +6,12 @@ I am a self-taught programmer and indie game developer living in the Philippines
 
 You can check out my games and works at:
 
-* [Itch.io](https://flamendless.itch.io)
+* [Itch](https://flamendless.itch.io)
 * [Gamejolt](https://gamejolt.com/@brbl)
 
 I also have devblogs and articles you can read over [here](https://flamendless.github.io)
 
 # WORK
 ![Going Home](https://i.ibb.co/ZYfGR7F/goinghome.png)
+
+![Love To The Rescue](https://i.ibb.co/rxpL4kv/lovetotherescue.png)
