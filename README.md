@@ -12,6 +12,6 @@ You can check out my games and works at:
 I also have devblogs and articles you can read over [here](https://flamendless.github.io)
 
 # WORK
-![Going Home](/assets/goinghome.png)
+![Going Home](https://github.com/flamendless/flamendless/blob/master/assets/goinghome.png)
 
-![Love To The Rescue](/assets/lovetotherescue.png)
+![Love To The Rescue](https://github.com/flamendless/flamendless/blob/master/assets/lovetotherescue.png)
