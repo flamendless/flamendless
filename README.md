@@ -16,6 +16,7 @@ You can check out my games and works at:
 I also have devblogs and articles you can read over [here](https://flamendless.github.io)
 
 # WORK
-![Going Home](https://github.com/flamendless/flamendless/blob/master/assets/goinghome.png)
 
-![Love To The Rescue](https://github.com/flamendless/flamendless/blob/master/assets/lovetotherescue.png)
+[![Going Home](https://github.com/flamendless/flamendless/blob/master/assets/goinghome.png)](https://gamejolt.com/games/goinghome/237280)
+
+[![Love To The Rescue](https://github.com/flamendless/flamendless/blob/master/assets/lovetotherescue.png)](http://flamendless.itch.io/love-to-the-rescue)
