@@ -8,13 +8,19 @@ I am a self-taught programmer and indie game developer living in the Philippines
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flamendless&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
 You can check out my games and works at:
 
 [![Itch](https://github.com/flamendless/flamendless/blob/master/assets/itchio.png)](https://flamendless.itch.io)
 
 [![GameJolt](https://github.com/flamendless/flamendless/blob/master/assets/gamejolt.png)](https://gamejolt.com/@brbl)
 
+---
+
 I also have devblogs and articles you can read over [here](https://flamendless.github.io)
+
+---
 
 # WORK
 
