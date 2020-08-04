@@ -31,3 +31,7 @@ WORK
 **Love To The Rescue**
 
 [![Love To The Rescue](https://github.com/flamendless/flamendless/blob/master/assets/lovetotherescue.png)](http://flamendless.itch.io/love-to-the-rescue)
+
+**Last Lad (#lowrezjam2017)**
+
+[![Last Lad](https://github.com/flamendless/flamendless/blob/master/assets/lastlad.png)](https://brbl.itch.io/last-lad)
