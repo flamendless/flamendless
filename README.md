@@ -18,9 +18,10 @@ You can check out my games and works at:
 
 Blog Posts/Tutorials
 ======
+
 I also have devblogs and articles you can read over [here](https://flamendless.github.io)
 
-# WORK
+WORK
 ======
 
 **Going Home**
