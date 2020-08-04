@@ -28,10 +28,10 @@ WORK
 
 [![Going Home](https://github.com/flamendless/flamendless/blob/master/assets/goinghome.png)](https://gamejolt.com/games/goinghome/237280)
 
-**Love To The Rescue**
+**Love To The Rescue** (#lovejam2019)
 
 [![Love To The Rescue](https://github.com/flamendless/flamendless/blob/master/assets/lovetotherescue.png)](http://flamendless.itch.io/love-to-the-rescue)
 
-**Last Lad (#lowrezjam2017)**
+**Last Lad** (#lowrezjam2017)
 
 [![Last Lad](https://github.com/flamendless/flamendless/blob/master/assets/lastlad.png)](https://brbl.itch.io/last-lad)
