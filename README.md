@@ -5,6 +5,8 @@ Hi, my name is **Brandon Blanker Lim-it**, also goes by the username **flamendle
 
 I am a self-taught programmer and indie game developer living in the Philippines
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H12CKLZ)
+
 ![flamendless' github stats](https://github-readme-stats.vercel.app/api?username=flamendless&show_icons=true&theme=gruvbox)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flamendless&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
