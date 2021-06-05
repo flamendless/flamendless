@@ -27,6 +27,10 @@ I also have devblogs and articles you can read over [here](https://flamendless.g
 WORK
 ======
 
+**CodeNect - Visual Programming Software**
+
+[![CodeNect](https://github.com/flamendless/flamendless/blob/master/assets/codenect.png)](https://flamendless.itch.io/codenect)
+
 **Going Home**
 
 [![Going Home](https://github.com/flamendless/flamendless/blob/master/assets/goinghome.png)](https://gamejolt.com/games/goinghome/237280)
@@ -37,4 +41,4 @@ WORK
 
 **Last Lad** (#lowrezjam2017)
 
-[![Last Lad](https://github.com/flamendless/flamendless/blob/master/assets/lastlad.png)](https://brbl.itch.io/last-lad)
+[![Last Lad](https://github.com/flamendless/flamendless/blob/master/assets/lastlad.png)](https://flamendless.itch.io/last-lad)
