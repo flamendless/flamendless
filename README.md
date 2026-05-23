@@ -1,4 +1,5 @@
 <div align="center">
+  <h1>Check out my <a href="https://flamendless.xyz/course/">COURSE!</a></h1>
   <a href="https://www.youtube.com/@flamendless" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
